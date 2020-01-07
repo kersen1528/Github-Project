@@ -1,3 +1,5 @@
+# Github Archive
+
 ### Introduction
 In this project, I downloaded the entire month of October's github zipped files, each of which represents one
 hour of a day. Of these 528 files, I chose 21 files to focus on, from October 20th to October 26th at 4-6pm.
